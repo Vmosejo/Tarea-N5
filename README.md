@@ -10,6 +10,16 @@
 ![image](https://user-images.githubusercontent.com/93681159/148386333-52775691-75b2-4450-b784-9a9293e88d5c.png)
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 ![image](https://user-images.githubusercontent.com/93681159/148386408-af0a4b7e-9af3-48a3-b5c8-a58582a8209a.png)
+
+Formamos el determinante caracteristico:
+![image](https://user-images.githubusercontent.com/93681159/148422861-4442c1da-4dad-4c6b-a3a6-ffc2287478ba.png)
+
+Reemplazamos los coeficientes de I1 de la primera columna del determinante característico con las constantes del lado derecho de las ecuaciones para formar otro determinante.
+![image](https://user-images.githubusercontent.com/93681159/148422503-bff37837-694e-48cf-a8ba-43dfd496de58.png)
+
+Reemplazamos los coeficientes de I2 de la segunda columna del determinante característico con las constantes del lado derecho de las ecuaciones para formar otro determinante.
+![image](https://user-images.githubusercontent.com/93681159/148422605-eb6d1a21-4695-48c5-9b9f-2e73ce208268.png)
+
 5. Evalúe cada uno de los determinantes:
 ![image](https://user-images.githubusercontent.com/93681159/148386534-09b99c39-561f-4ce7-8032-a416997f51e2.png)
 7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
