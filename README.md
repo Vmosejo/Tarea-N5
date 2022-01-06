@@ -39,13 +39,28 @@ Reemplazamos los coeficientes de I2 de la segunda columna del determinante carac
 ![image](https://user-images.githubusercontent.com/93681159/148386534-09b99c39-561f-4ce7-8032-a416997f51e2.png)
 
 Evaluamos el primer determinante
+
 ![image](https://user-images.githubusercontent.com/93681159/148442233-bfa5c039-2ad5-403d-81c8-03b2ae5043da.png)
 
 Evaluamos el segundo determinante
+
 ![image](https://user-images.githubusercontent.com/93681159/148442376-4fd8b325-dc8f-44ff-8503-87fa1e38946f.png)
 
 #### 7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 ![image](https://user-images.githubusercontent.com/93681159/148386567-867b0d23-6df1-4d41-8675-3bfcd7b5338c.png)
+
+Evaluamos el primer determinante:
+
+![image](https://user-images.githubusercontent.com/93681159/148447512-264cc0d5-01f9-42cb-b8c4-e35dc45cd448.png)
+
+Evaluamos el segundo determinante:
+
+![image](https://user-images.githubusercontent.com/93681159/148447582-cd00dbdd-c441-4fce-afd7-6e2959a71e15.png)
+
+Evaluamos el tercer determinante:
+
+![image](https://user-images.githubusercontent.com/93681159/148447663-aeda7c3d-4b19-445a-a745-abb5cbcb882c.png)
+
 
 ####  9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora
 ![image](https://user-images.githubusercontent.com/93681159/148386333-52775691-75b2-4450-b784-9a9293e88d5c.png)
