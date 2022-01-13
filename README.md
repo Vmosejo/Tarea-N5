@@ -247,7 +247,9 @@ Por tanto, para que aparezca una fuerza electromotriz (fem) inducida debe variar
 
 #### 21.¿Cómo complementa la ley de Lenz a la ley de Faraday?
 La ley que explica esta interacción entre la fuerza electromotriz inducida y el campo magnético es la Ley de Faraday.
+
 ![image](https://user-images.githubusercontent.com/93666408/149283392-3a805146-c757-42e4-9b66-9324de8bba54.png)
+
 En donde Φm es el flujo del campo magnético. Por tanto, para que aparezca una fuerza electromotriz (fem) inducida debe variar el flujo del campo magnético a través de la superficie delimitada por el conductor. De la definición de flujo:
 
 Se deduce que hay tres formas de variar el flujo del campo magnético: variar el módulo del campo, la superficie que lo atraviesa o el ángulo que forman ambos.
@@ -257,6 +259,7 @@ Se deduce que hay tres formas de variar el flujo del campo magnético: variar el
 El proposito segun la figura es el siguiente,el ensamble de conmutador y escobillas conecta eléctricamente la espira al circuito externo.
 #### 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
 A continuación se puede observar en la imagen como aparece el voltaje de salida.
+
 ![image](https://user-images.githubusercontent.com/93666408/149284066-63683dfd-26e4-426f-8840-3a8c66389e19.png)
 
 ## 4.VIDEO
