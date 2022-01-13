@@ -67,17 +67,48 @@ Evaluamos el tercer determinante:
 ### SECCIÓN 9–2 Método de la corriente en ramas
 #### 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
 ![image](https://user-images.githubusercontent.com/93681159/148387216-f5d31909-980f-4130-82d0-4bc4fb81f88b.png)
+#### R: I1-I2-I3=0
 
 #### 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
 ![image](https://user-images.githubusercontent.com/93681159/148387253-7e436828-ec99-4b57-afa1-9618e7d17054.png)
 
+Reconocemos las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/93681159/149240464-fdf71e6c-85bc-401f-90c6-3a4359368b5d.png)
+
+Reemplazamos datos:
+
+![image](https://user-images.githubusercontent.com/93681159/149240508-4318f3ae-161f-4ba6-9e0d-9aaf3b57596d.png)
+
+Resuelvo el sistema:
+
+![image](https://user-images.githubusercontent.com/93681159/149240562-3406261a-916a-4785-a14b-ac6266302130.png)
+![image](https://user-images.githubusercontent.com/93681159/149240612-3f88b192-df19-4aa5-b7b2-e5d2f4dff3e8.png)
+
+Aplico la ley de Ohm para las caidas de voltaje:
+
+![image](https://user-images.githubusercontent.com/93681159/149241234-6841603d-23ff-4d18-8b21-622cd8d1dcdc.png)
+
 #### 15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 ![image](https://user-images.githubusercontent.com/93681159/148387362-27c9b2e1-3126-46e8-8623-8f9fcbd75593.png)
+
+Mediante la ley de Ohm
+
 ### SECCIÓN 9–3 Método de la corriente en lazos
 
 #### 17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
 ![image](https://user-images.githubusercontent.com/93681159/148387636-aca538a1-d80d-4d8a-97db-34464bad6d48.png)
 
+Determino las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/93681159/149243550-ab227ac7-ff92-4723-b126-75231ece4e49.png)
+
+Resuelvo el sistema:
+
+![image](https://user-images.githubusercontent.com/93681159/149243773-aa048260-a28d-40e4-96ee-67ff74abab8d.png)
+![image](https://user-images.githubusercontent.com/93681159/149243799-cd98b8ad-3c0c-4ab2-a7c4-d3f50fae8fa8.png)
+#### R: I1=-5.11 mA
+#### R: I2=-3.52 mA
 #### 19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 ![image](https://user-images.githubusercontent.com/93681159/148387645-bc9b5f9a-3691-4a3f-8ad9-41229e11de1d.png)
 
