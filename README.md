@@ -1,8 +1,9 @@
 # Tarea-N5
 ## 1.OBJETIVOS
-   1.1  General
+   #### 1.1  General
    Analizar los nuevos conceptos que se exponen en el capítulo 9 y 10, correspondiente a análisis de ramas,nodos,lazos y en cuánto a lo que hace referencia del tema de magnetismo y electromagnetismo realizar una profunda indagación en el texto guía para aplicar en los ejercicios propuestos.
-   1.2 Especificos
+   
+  #### 1.2 Especificos
    * Comprender la teoría de los conceptos básicos mostrados correspondientes a los capítulos 9 y 10.
    * Resolver los ejercicios planteados mediante los métodos que se presentan análisis de ramas,lazos y nodos.
    * Aplicar la teoría aprendida en los ejercicios propuestos de cada capítulo.
