@@ -141,8 +141,24 @@ Resuelvo el sistema de ecuaciones:
 #### 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 ![image](https://user-images.githubusercontent.com/93681159/148387764-2338b580-a3ab-4d64-b532-1246c29ad4a4.png)
 
+Reconocemos las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/93681159/149249336-308367d3-0cc8-4c79-857a-765e1de7e6bb.png)
+
+Resolvemos el sistema:
+
+![image](https://user-images.githubusercontent.com/93681159/149249405-2ccf72db-3b10-4ce4-b2ba-b5dab6117e89.png)
+![image](https://user-images.githubusercontent.com/93681159/149249430-e0a44d46-7159-46ea-abe7-ace4d8779897.png)
+#### I1 = 555 mA
+#### I2 = 353 mA
+
+![image](https://user-images.githubusercontent.com/93681159/149249551-c77118ca-a9cf-48da-b20b-24fd9f95b454.png)
+
 #### 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
 ![image](https://user-images.githubusercontent.com/93681159/148387802-4898e931-dd79-49c2-8a5f-33b83028fb3d.png)
+
+![image](https://user-images.githubusercontent.com/93681159/149249957-26673d7a-983b-40c4-9481-36afd521d736.png)
+
 ### SECCIÓN 9–4 Método del voltaje en nodos
 
 #### 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
