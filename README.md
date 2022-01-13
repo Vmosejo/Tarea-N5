@@ -266,6 +266,7 @@ A continuación se puede observar en la imagen como aparece el voltaje de salida
 ![image](https://user-images.githubusercontent.com/93666408/149284066-63683dfd-26e4-426f-8840-3a8c66389e19.png)
 
 ## 4.VIDEO
+https://www.youtube.com/watch?v=QYezIIneqw8
 ## 5.CONCLUSIONES
 * En conclusión, las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora, es importante tener en cuenta que el número de ecuaciones debe ser igual a la cantidad de incógnitas.
 * El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff, mientras que el método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff y por último el método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff.
