@@ -64,6 +64,9 @@ Evaluamos el tercer determinante:
 
 ####  9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora
 ![image](https://user-images.githubusercontent.com/93681159/148386333-52775691-75b2-4450-b784-9a9293e88d5c.png)
+![image](https://user-images.githubusercontent.com/93681159/149257411-92bbbe79-e1b5-4c6a-95fa-82d0dff0a30b.png)
+![image](https://user-images.githubusercontent.com/93681159/149257440-96fc170f-4c08-4f2d-936b-5710f571b333.png)
+
 ### SECCIÓN 9–2 Método de la corriente en ramas
 #### 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
 ![image](https://user-images.githubusercontent.com/93681159/148387216-f5d31909-980f-4130-82d0-4bc4fb81f88b.png)
@@ -91,6 +94,7 @@ Aplico la ley de Ohm para las caidas de voltaje:
 
 #### 15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 ![image](https://user-images.githubusercontent.com/93681159/148387362-27c9b2e1-3126-46e8-8623-8f9fcbd75593.png)
+![image](https://user-images.githubusercontent.com/93681159/149257285-d251516c-a9ad-47de-a0b2-dd5102c0679a.png)
 
 Mediante la ley de Ohm
 
