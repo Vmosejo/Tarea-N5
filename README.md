@@ -1,7 +1,11 @@
 # Tarea-N5
 ## 1.OBJETIVOS
    1.1  General
+   Analizar los nuevos conceptos que se exponen en el capítulo 9 y 10, correspondiente a análisis de ramas,nodos,lazos y en cuánto a lo que hace referencia del tema de magnetismo y electromagnetismo realizar una profunda indagación en el texto guía para aplicar en los ejercicios propuestos.
    1.2 Especificos
+   * Comprender la teoría de los conceptos básicos mostrados correspondientes a los capítulos 9 y 10.
+   * Resolver los ejercicios planteados mediante los métodos que se presentan análisis de ramas,lazos y nodos.
+   * Aplicar la teoría aprendida en los ejercicios propuestos de cada capítulo.
 ## 2.MARCO TEÓRICO (RESUMEN)
 
 ### Capítulo 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
@@ -197,6 +201,63 @@ Resolvemos el sistema:
 
 #### 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 ![image](https://user-images.githubusercontent.com/93681159/148390237-3b22a075-8580-4553-bbde-51d18baecf82.png)
+
+### Capítulo 10: MAGNETISMO Y ELECTROMAGNETISMO
+### SECCIÓN 10–1 El campo magnetico
+#### 1.El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+La densidad del flujo magnético se reduce a medida que aumenta la distancia.
+
+#### 3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500x10^-6 T y el área de sección transversal mide 150 cm^2?
+![image](https://user-images.githubusercontent.com/93666408/149281163-0461b840-0a16-4df2-8746-e3843ab1cfed.png)
+
+#### 5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
+![image](https://user-images.githubusercontent.com/93666408/149281288-35203e7a-ee9d-450d-95eb-e109dac56290.png)
+
+### SECCIÓN 10-2 Electromagnetismo
+#### 7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750x10^-6 Wb/At·m?
+![image](https://user-images.githubusercontent.com/93666408/149281813-b570a0c9-ac8a-4f8a-a490-b83a74a22a39.png)
+
+#### 9.¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3A de corriente a través de él?
+![image](https://user-images.githubusercontent.com/93666408/149281929-47d6b710-2a51-4e1d-ae02-31f450c6acc3.png)
+
+### SECCIÓN 10-3 Dispositivos Electromágneticos
+#### 11.(a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+* Es que la magnetización llega a cambiar drásticamente, haciendo que se produzca una reacción física molecular, atraviesa mayor flujo magnético al pasarlo por arriba.
+* Cuando una corriente eléctrica fluye a través de un alambre conductor, éste genera un campo magnético cuyos polos están determinados por la dirección del flujo de la corriente en el embobinado.
+* Si la corriente que circula por el embobinado se incrementa a tal grado que el contenedor queda completamente saturado, la fuerza de empuje del solenoide caerá abruptamente, incrementando a su vez la temperatura del embobinado.
+
+#### 13.¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexión cuando circula corriente a través de la bobina?
+![image](https://user-images.githubusercontent.com/93666408/149282220-e05798f5-0bea-4465-8746-14efe35823fb.png)
+
+### SECCIÓN 10-4 Histéresis magnética
+#### 15.¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
+![image](https://user-images.githubusercontent.com/93666408/149282533-780dbe35-1a36-4cf5-9bab-1a6e5f7eafaa.png)
+
+![image](https://user-images.githubusercontent.com/93666408/149282681-97fc1d48-2ede-447f-9718-04f733f08251.png)
+
+#### 17.Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+![image](https://user-images.githubusercontent.com/93666408/149282827-e64d1f23-bb43-4387-af77-4dfdfd92fd90.png)
+
+![image](https://user-images.githubusercontent.com/93666408/149282921-7fcf18c4-97b1-462a-9577-8ce6b17d405d.png)
+
+### SECCIÓN 10-5 Inducción electromagnética
+#### 19.¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+Por tanto, para que aparezca una fuerza electromotriz (fem) inducida debe variar el flujo del campo magnético a través de la superficie delimitada por el conductor. Se deduce que hay tres formas de variar el flujo del campo magnético: variar el módulo del campo, la superficie que lo atraviesa o el ángulo que forman ambos.
+
+#### 21.¿Cómo complementa la ley de Lenz a la ley de Faraday?
+La ley que explica esta interacción entre la fuerza electromotriz inducida y el campo magnético es la Ley de Faraday.
+![image](https://user-images.githubusercontent.com/93666408/149283392-3a805146-c757-42e4-9b66-9324de8bba54.png)
+En donde Φm es el flujo del campo magnético. Por tanto, para que aparezca una fuerza electromotriz (fem) inducida debe variar el flujo del campo magnético a través de la superficie delimitada por el conductor. De la definición de flujo:
+
+Se deduce que hay tres formas de variar el flujo del campo magnético: variar el módulo del campo, la superficie que lo atraviesa o el ángulo que forman ambos.
+
+### SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
+### 23.Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+El proposito segun la figura es el siguiente,el ensamble de conmutador y escobillas conecta eléctricamente la espira al circuito externo.
+#### 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+A continuación se puede observar en la imagen como aparece el voltaje de salida.
+![image](https://user-images.githubusercontent.com/93666408/149284066-63683dfd-26e4-426f-8840-3a8c66389e19.png)
+
 ## 4.VIDEO
 ## 5.CONCLUSIONES
 * En conclusión, las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora, es importante tener en cuenta que el número de ecuaciones debe ser igual a la cantidad de incógnitas.
