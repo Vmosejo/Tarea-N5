@@ -244,7 +244,9 @@ La densidad del flujo magnético se reduce a medida que aumenta la distancia.
 
 ### SECCIÓN 10-5 Inducción electromagnética
 #### 19.¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
-Por tanto, para que aparezca una fuerza electromotriz (fem) inducida debe variar el flujo del campo magnético a través de la superficie delimitada por el conductor. Se deduce que hay tres formas de variar el flujo del campo magnético: variar el módulo del campo, la superficie que lo atraviesa o el ángulo que forman ambos.
+*  intensidad del campo magnético, 
+*  la longitud del conductor expuesta al campo y 
+*  la velocidad de rotación del conductor.
 
 #### 21.¿Cómo complementa la ley de Lenz a la ley de Faraday?
 La ley que explica esta interacción entre la fuerza electromotriz inducida y el campo magnético es la Ley de Faraday.
