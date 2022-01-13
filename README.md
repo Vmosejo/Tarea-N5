@@ -200,6 +200,15 @@ Resolvemos el sistema:
 #### 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 ![image](https://user-images.githubusercontent.com/93681159/148390154-45e622ef-b364-4e56-8eb4-7561529646e1.png)
 
+Reconocemos nuestras ecuaciones
+
+![image](https://user-images.githubusercontent.com/93681159/149332221-9953fb84-32b0-43b5-a900-80ac8d36cb07.png)
+
+* Nodo A
+
+
+
+* Nodo B
 #### 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 ![image](https://user-images.githubusercontent.com/93681159/148390237-3b22a075-8580-4553-bbde-51d18baecf82.png)
 
@@ -266,7 +275,6 @@ A continuación se puede observar en la imagen como aparece el voltaje de salida
 ![image](https://user-images.githubusercontent.com/93666408/149284066-63683dfd-26e4-426f-8840-3a8c66389e19.png)
 
 ## 4.VIDEO
-https://www.youtube.com/watch?v=QYezIIneqw8
 ## 5.CONCLUSIONES
 * En conclusión, las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora, es importante tener en cuenta que el número de ecuaciones debe ser igual a la cantidad de incógnitas.
 * El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff, mientras que el método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff y por último el método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff.
