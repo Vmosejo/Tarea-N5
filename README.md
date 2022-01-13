@@ -167,6 +167,7 @@ Resolvemos el sistema:
 
 #### 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
 ![image](https://user-images.githubusercontent.com/93681159/148390108-c07fbbbc-fdd5-4c62-bfb1-5e7210082312.png)
+![image](https://user-images.githubusercontent.com/93681159/149257812-b43b2aea-e22d-4efe-af93-5f19a628e80f.png)
 
 #### 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 ![image](https://user-images.githubusercontent.com/93681159/148390154-45e622ef-b364-4e56-8eb4-7561529646e1.png)
