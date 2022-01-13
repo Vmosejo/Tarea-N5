@@ -171,5 +171,8 @@ Resolvemos el sistema:
 ![image](https://user-images.githubusercontent.com/93681159/148390237-3b22a075-8580-4553-bbde-51d18baecf82.png)
 ## 4.VIDEO
 ## 5.CONCLUSIONES
+* En conclusión, las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora, es importante tener en cuenta que el número de ecuaciones debe ser igual a la cantidad de incógnitas.
+* El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff, mientras que el método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff y por último el método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff.
+* La corriente que circula en un lazo no es necesariamente la corriente real presente en una rama.
 ## 6.BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
