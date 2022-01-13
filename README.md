@@ -3,6 +3,8 @@
    1.1  General
    1.2 Especificos
 ## 2.MARCO TEÓRICO (RESUMEN)
+
+### Capítulo 9: ANÁLISIS DE RAMAS, LAZOS Y NODOS
 #### TEOREMA DE SUPERPOSICIÓN
 ![1](https://user-images.githubusercontent.com/93893919/149259270-dff84724-4892-49c8-bdb4-93aa36a29624.png)
 #### TEOREMA DE THEVENIN 
@@ -17,13 +19,9 @@
 ![6](https://user-images.githubusercontent.com/93893919/149259305-503afba6-be7b-4016-be43-3f261f6f558a.png)
 #### CAPACITORES Y CAPACITANCIA 
 ![7](https://user-images.githubusercontent.com/93893919/149259314-6c591b83-1ec4-41d9-8b67-eef89a22e341.png)
+### Capítulo 10: MAGNETISMO Y ELECTROMAGNETISMO.
 #### CAMPOS ELECTRICOS
 ![8](https://user-images.githubusercontent.com/93893919/149259329-026cf04b-51c9-4a13-b0ee-aac9b64d22b0.png)
-
-#### DIELÉCTRICOS
-
-#### ENERGIA ALAMACENADA POR UN CAPACITADOR 
-
 #### FALLAS EN EL CAPACITADOR
 ![9](https://user-images.githubusercontent.com/93893919/149259346-905a5a77-2ef8-4c15-8003-91eceb22c1bf.png)
 #### TIPOS DE CAPACITADORES
