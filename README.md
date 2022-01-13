@@ -221,6 +221,7 @@ Resuelvo el sistema de ecuaciones:
 #### Vb = -5.65 V
 #### 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 ![image](https://user-images.githubusercontent.com/93681159/148390237-3b22a075-8580-4553-bbde-51d18baecf82.png)
+![image](https://user-images.githubusercontent.com/93681159/149337444-8c903f95-cbf9-4e0e-9f8f-40773889c5b4.png)
 
 ### Capítulo 10: MAGNETISMO Y ELECTROMAGNETISMO
 ### SECCIÓN 10–1 El campo magnetico
