@@ -111,10 +111,33 @@ Resuelvo el sistema:
 #### R: I2=-3.52 mA
 #### 19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 ![image](https://user-images.githubusercontent.com/93681159/148387645-bc9b5f9a-3691-4a3f-8ad9-41229e11de1d.png)
+Mediante la ley de voltajes de Kirchhoff:
+
+![image](https://user-images.githubusercontent.com/93681159/149245345-d0d56519-c30a-46fa-8be8-b64b3165ab30.png)
+
+Resuelvo el sistema:
+
+![image](https://user-images.githubusercontent.com/93681159/149245460-3977328c-942d-4b99-8160-a63c60c54f96.png)
+![image](https://user-images.githubusercontent.com/93681159/149245479-2c2354ac-57f6-4db7-81f4-8596f21ce454.png)
+
+Mediante la ley de Ohm determino los voltajes:
+
+![image](https://user-images.githubusercontent.com/93681159/149246066-e42f80a2-2d7d-4739-8ac8-926eec3d1cca.png)
 
 #### 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
 ![image](https://user-images.githubusercontent.com/93681159/148387717-1bea3afc-c3bd-4056-a3aa-968cd8cbb7a9.png)
 
+Mediante la ley de voltajes de Kirchhoff:
+
+![image](https://user-images.githubusercontent.com/93681159/149246882-c54f1535-7f5a-4901-b456-fcb0d7e909f4.png)
+
+Resuelvo el sistema de ecuaciones:
+
+![image](https://user-images.githubusercontent.com/93681159/149247019-8d87552b-8514-4dc0-bc28-29db368921d9.png)
+![image](https://user-images.githubusercontent.com/93681159/149247047-0d690a21-22b0-4442-a423-0156734d4336.png)
+#### R: IA = 15.6 mA
+#### R: IB = -61.3 mA
+#### R: IC = 61.5 mA
 #### 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
 ![image](https://user-images.githubusercontent.com/93681159/148387764-2338b580-a3ab-4d64-b532-1246c29ad4a4.png)
 
