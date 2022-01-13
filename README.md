@@ -206,9 +206,19 @@ Reconocemos nuestras ecuaciones
 
 * Nodo A
 
-
+![image](https://user-images.githubusercontent.com/93681159/149334504-5da331df-9f0c-4606-ac93-3ab14c7b9a50.png)
 
 * Nodo B
+
+![image](https://user-images.githubusercontent.com/93681159/149334571-7de59119-7da3-4699-b957-ec08d5abeb47.png)
+
+Resuelvo el sistema de ecuaciones:
+
+![image](https://user-images.githubusercontent.com/93681159/149334932-1927cc0e-86cc-4d62-b9b5-787bf34bc9dc.png)
+![image](https://user-images.githubusercontent.com/93681159/149335074-09e6a1d7-8c23-470f-9ef9-58e125991faf.png)
+
+#### Va = 1.5 V
+#### Vb = -5.65 V
 #### 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 ![image](https://user-images.githubusercontent.com/93681159/148390237-3b22a075-8580-4553-bbde-51d18baecf82.png)
 
