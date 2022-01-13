@@ -209,7 +209,7 @@ Resolvemos el sistema:
 La densidad del flujo magnético se reduce a medida que aumenta la distancia.
 
 #### 3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500x10^-6 T y el área de sección transversal mide 150 cm^2?
-![image](https://user-images.githubusercontent.com/93666408/149281163-0461b840-0a16-4df2-8746-e3843ab1cfed.png)
+![image](https://user-images.githubusercontent.com/93666408/149291957-62c84728-e4ae-455a-8719-ffaa46fbf142.png)
 
 #### 5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
 ![image](https://user-images.githubusercontent.com/93666408/149281288-35203e7a-ee9d-450d-95eb-e109dac56290.png)
