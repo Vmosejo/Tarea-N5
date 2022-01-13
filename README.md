@@ -212,14 +212,15 @@ La densidad del flujo magnético se reduce a medida que aumenta la distancia.
 ![image](https://user-images.githubusercontent.com/93666408/149291957-62c84728-e4ae-455a-8719-ffaa46fbf142.png)
 
 #### 5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
-![image](https://user-images.githubusercontent.com/93666408/149281288-35203e7a-ee9d-450d-95eb-e109dac56290.png)
+![image](https://user-images.githubusercontent.com/93666408/149294767-b3d0d5e4-1d70-4d50-8e0e-35a94f0f5f4e.png)
+
 
 ### SECCIÓN 10-2 Electromagnetismo
 #### 7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750x10^-6 Wb/At·m?
-![image](https://user-images.githubusercontent.com/93666408/149281813-b570a0c9-ac8a-4f8a-a490-b83a74a22a39.png)
+![image](https://user-images.githubusercontent.com/93666408/149295186-5f64910e-a67d-4925-b74f-2a660f4f2b69.png)
 
 #### 9.¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3A de corriente a través de él?
-![image](https://user-images.githubusercontent.com/93666408/149281929-47d6b710-2a51-4e1d-ae02-31f450c6acc3.png)
+* Fm=50tx3A=150 At 
 
 ### SECCIÓN 10-3 Dispositivos Electromágneticos
 #### 11.(a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
